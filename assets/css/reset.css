@@ -1,0 +1,12 @@
+body,
+blockquote,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+picture > img,
+picture > source {
+  max-width: 100%;
+  display: block;
+}

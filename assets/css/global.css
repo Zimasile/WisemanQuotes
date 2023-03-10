@@ -1,0 +1,10 @@
+body * {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Manrope', sans-serif;
+  background: hsl(218, 23%, 16%);
+  min-height: 100vh;
+
+}
